@@ -40,5 +40,3 @@ Note: You can use any hosting.
 <h4 align='center'>© 2023 ツ ѕнєкнєя</h4>
 
 <!-- DO NOT REMOVE THIS CREDIT 🤬 🤬 -->
-
-
